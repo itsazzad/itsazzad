@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on revamping myself
 - 🌱 I’m currently learning life skills
 - 👯 I’m looking to collaborate on beneficial knowledge 
-- 🤔 I’m looking for help with finance
+- 🤔 I’m looking for help with funding
 - 💬 Ask me about the possible outcome of a plan
 - 📫 How to reach me: itsazzad@gmail.com
 - 😄 Pronouns: He/Him/His/Himself
