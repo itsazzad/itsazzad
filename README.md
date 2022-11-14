@@ -10,6 +10,7 @@ I am a jack of many trades, though oftentimes better than master of one.
 - Strong experience in designing and developing scalable software.
 - Self-motivated and take initiative with minimal direction.
 
+---
 
 - 🔭 I’m currently working on revamping myself
 - 🌱 I’m currently learning life skills
