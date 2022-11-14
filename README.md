@@ -19,3 +19,8 @@ I am a jack of many trades, though oftentimes better than master of one.
 - Experienced with designing and implementing different types of applications using different technologies.
 - Strong experience in designing and developing scalable software.
 - Self-motivated and take initiative with minimal direction.
+
+## Github Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=itsazzad&count_private=true&show_icons=true)
+
