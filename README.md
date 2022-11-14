@@ -11,7 +11,6 @@
 
 I am a jack of many trades, though oftentimes better than master of one.
 - Stack Overflow reputation: ~6.5k with impact by reaching ~4.2m people
-- ~3K GitHub/Open Source Contributions since 2009
 - 19+ years of programming experience, and 15+ years of strong professional and technical development experiences.
 - Excellent in adopting the most efficient techniques to achieve goals.
 - Extensive bug fixing and code refactoring experience.
