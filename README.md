@@ -8,18 +8,7 @@ I am a jack of many trades, though oftentimes better than master of one.
 - Swift in having In-depth knowledge of how things work.
 - Experienced with designing and implementing different types of applications using different technologies.
 - Strong experience in designing and developing scalable software.
-- Self-motivated and take initiative with minimal direction.
-
----
-
-- 🔭 I’m currently working on revamping myself
-- 🌱 I’m currently learning life skills
-- 👯 I’m looking to collaborate on beneficial knowledge 
-- 🤔 I’m looking for help with funding
-- 💬 Ask me about the possible outcome of a plan
-- 📫 How to reach me: itsazzad@gmail.com
-- 😄 Pronouns: He/Him/His/Himself
-- ⚡ Fun fact: I perform better under pressure only if I know the goal and I like it
+- Self-motivated and take the initiative with minimal direction.
 
 ## Github Stats
 
